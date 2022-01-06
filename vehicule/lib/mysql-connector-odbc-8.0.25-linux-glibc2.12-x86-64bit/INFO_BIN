@@ -1,0 +1,10 @@
+MySQL Connector/ODBC Build Information
+
+build-date           :  2021-04-26
+os-info              :  Linux-4.1.12-124.46.4.1.el6uek.x86_64
+build-type           :  Debug
+compiler             :  GNU 8.3.1
+mysql-version        :  8.0.25
+libmysql-linkage     :  Static
+odbc-manager         :  UnixODBC 2.3.2
+
